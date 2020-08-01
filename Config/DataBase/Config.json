@@ -1,0 +1,9 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "password": "neoxy2030",
+    "database": "TicoDB",
+    "charset": "utf8mb4"
+}
+
+
